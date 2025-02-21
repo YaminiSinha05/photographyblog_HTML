@@ -1,0 +1,1 @@
+Developed a responsive and visually appealing photography blog using HTML, CSS, and JavaScript. The project involveddesigning a user-friendly interface that showcases photo galleries, blog posts, and interactive elements.
